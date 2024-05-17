@@ -16,3 +16,4 @@ This project is a Python-based automated script designed to periodically check f
 
 ### Usage
 To ensure the script ran 24/7 on a Linux server and to easily view the logs, tmux was used. tmux is a terminal multiplexer that allows the creation and management of multiple terminal sessions from a single window.
+![](https://github.com/AlfaGruisPL/FreeLance-Python-Bot/blob/main/images/telegram.png)
